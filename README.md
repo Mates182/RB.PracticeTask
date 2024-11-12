@@ -1,10 +1,9 @@
 # Ruby on Rails Practice Task
 
 ## Description  
-This is a simple Ruby on Rails application that displays "Hello World" on the main page. It demonstrates the basics of setting up, building, and deploying a Rails application within Docker. The project is deployed and accessible online, and it can also be run locally using Docker.
+This is a simple Ruby on Rails application that displays "Hello World" on the main page. It demonstrates the basics of setting up, building, and deploying a Rails application within Docker. 
 
 ## Project Links
-- **Deployed on Railway**: [Ruby on Rails Practice Task on Railway](https://rbpracticetask-production.up.railway.app/)
 - **Docker Hub Repository**: [mates182/rb_practicetask on Docker Hub](https://hub.docker.com/repository/docker/mates182/rb_practicetask)
 
 ## Getting Started
